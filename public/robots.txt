@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://sri-satya-santosh-xerox-website.onrender.com/sitemap.xml
