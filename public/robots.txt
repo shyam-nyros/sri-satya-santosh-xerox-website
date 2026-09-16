@@ -1,4 +1,16 @@
 User-agent: *
 Allow: /
+Disallow: /node_modules/
+Disallow: /dist/
+Crawl-delay: 1
 
+# Sitemaps
 Sitemap: https://sri-satya-santosh-xerox-website.onrender.com/sitemap.xml
+
+# Google Search specific
+User-agent: Googlebot
+Allow: /
+
+# Bing Search specific
+User-agent: Bingbot
+Allow: /
